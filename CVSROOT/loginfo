@@ -36,4 +36,5 @@
 
 cagrid/phaseII mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov wuru@mail.nih.gov yanji@mail.nih.gov
 cagrid/Docs mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov wuru@mail.nih.gov yanji@mail.nih.gov
+cagrid/caGRID mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov wuru@mail.nih.gov yanji@mail.nih.gov
 
