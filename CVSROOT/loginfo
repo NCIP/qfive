@@ -30,7 +30,7 @@
 #kernel-grid/caGridBrowser mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov
 
 #cagrid/ogsadai-4.0/src mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov kurc-1@MEDCTR.OSU.EDU
-cagrid/Doc mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov kurc-1@MEDCTR.OSU.EDU
+#cagrid/Doc mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov kurc-1@MEDCTR.OSU.EDU
 #cagrid/src mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov
 #cagrid/caGridBrowser mail -s "CVS Notification" %{sv} spouros@pantherinformatics.com sanchezw@mail.nih.gov kherm@mail.nih.gov sahnih@mail.nih.gov
 
