@@ -1,0 +1,25 @@
+We have reviewed the Software Requirements Document for Q5 submitted by Dartmouth (original version available at http://gforge.nci.nih.gov/docman/view.php/42/420/caBIG_Requirements_and_Specification_Q5Project.doc )
+
+We approve this document with the following edits.  We have checked in a version with our edits that is available at:
+http://cabigcvs.nci.nih.gov/viewcvs/viewcvs.cgi/qfive/Adopter/caBIG_Requirements_Q5Project_with_OHSU_edits.doc 
+
+Edits:
+
+Page 9 - notes about dependencies - note that PROcess, caMassClass have their own dependencies which should also be noted
+Page 9 - R software version.  We are currently using Q5 on R 2.2.0 on our Linux Box and it seems to be fine.
+Page 11 - change [technical tag details...] to Please refer to architecture section in this document.
+
+The following references do not exist in the current version of Q5.  We think they should either be removed or the software re-released with these modifications:
+
+Page 9 - "Diseased" and "Nondiseased" classifications.  The package does not currently output a vector of classifications on the test set.
+
+Page 9 - Data output format - Label:<tab>value 
+
+Page 9 - graph of eigenvalues
+
+Page 13 - Requirements 3.2 and 3.3 
+
+Ted Laderas
+laderast@ohsu.edu
+Bioinformatics Developer
+Oregon Health & Science University

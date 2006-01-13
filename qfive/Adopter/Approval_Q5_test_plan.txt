@@ -1,0 +1,12 @@
+We have reviewed the Test Approach documente and we officially approve it.  I have checked in a copy of this email and the Test Approach document.  
+
+Just a couple of notes (I have replicated these into the version of the Test Approach document found at: http://cabigcvs.nci.nih.gov/viewcvs/viewcvs.cgi/qfive/Adopter/Q5_Test_Approach_with_OHSU_notes.doc 
+ )
+
+Page 10: We have provided sample mzXML files in the form of the synthetic dataset.  Let us know if you run into any formatting issues with this.
+Page 11: Just FYI: Fisher's Iris Dataset is not SELDI proteomics data.  It is a dataset of petal lengths and sepal lengths of various iris species that is commonly used in the analysis of data.
+
+Ted Laderas
+laderast@ohsu.edu
+Bioinformatics Developer
+Oregon Health & Science University
