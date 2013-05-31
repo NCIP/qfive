@@ -1,7 +1,7 @@
 Welcome to the QFive Project!
 ===============================
 
-QFive  is based on a probabilistic classification algorithm that employs principal components dimension-reduction and linear discriminant analysis using the spectra from either SELDI or MALDI-TOF mass spectrometry results as input.
+QFive provides a probabilistic classification algorithm using the spectra from either SELDI or MALDI-TOF mass spectrometry results as input. It is developed using R language.
 
 QFive is distributed under the BSD 3-Clause License. Please see the NOTICE and LICENSE files for details.
 
